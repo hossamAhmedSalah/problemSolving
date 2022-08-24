@@ -13,3 +13,6 @@ https://codeforces.com/problemset/problem/112/A
 Helpful Math
 https://codeforces.com/problemset/problem/339/A
 ----------------------------------------------
+Word Capitalization
+https://codeforces.com/problemset/problem/281/A
+----------------------------------------------
