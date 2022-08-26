@@ -16,3 +16,4 @@ https://codeforces.com/problemset/problem/339/A
 Word Capitalization
 https://codeforces.com/problemset/problem/281/A
 ----------------------------------------------
+*you can find the problems links in the code decription*
