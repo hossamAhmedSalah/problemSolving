@@ -44,7 +44,29 @@ for i in range(len(output)):
     elif E.count(1)==4:
         print(3)
         continue
-
+'''
+#the idea to know the distinct number of characters
+set4 = {'a', 'a', 'a', 'a'}
+set3 = {'a', 'a', 'a', 'b'}
+set21 = {'a', 'a', 'b', 'b'}
+set22 = {'a', 'a', 'b', 'c'}
+set1 = {'a', 'b', 'c', 'd'}
+print(len(set4)-1,
+      len(set3)-1,
+      len(set21)-1,
+      len(set22)-1,
+      len(set1)-1
+      )
+     #0 1 1 2 3
+'''
+'''
+t=int(input())
+for i in range(t):
+    a=input()
+    b=input()
+    arr=[a[0],a[1],b[0],b[1]]
+    print(len(set(arr))-1)
+'''
 
 
 
